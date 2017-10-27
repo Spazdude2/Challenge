@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Global Gravity", "Assembly-CSharp.csproj", "{DB7E16F3-44C2-FC74-9BD3-3970835902AB}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Global Gravity.CSharp", "Global Gravity.CSharp.csproj", "{45864CBF-EAE5-A73A-0E3D-2920E122E50D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DB7E16F3-44C2-FC74-9BD3-3970835902AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB7E16F3-44C2-FC74-9BD3-3970835902AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB7E16F3-44C2-FC74-9BD3-3970835902AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB7E16F3-44C2-FC74-9BD3-3970835902AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45864CBF-EAE5-A73A-0E3D-2920E122E50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45864CBF-EAE5-A73A-0E3D-2920E122E50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45864CBF-EAE5-A73A-0E3D-2920E122E50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45864CBF-EAE5-A73A-0E3D-2920E122E50D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
